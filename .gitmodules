@@ -1,0 +1,6 @@
+[submodule "react-native-modules"]
+	path = react-native-modules
+	url = git@github.com:marvinvillareal/react-native-modules.git
+[submodule "TurboCalendarApp"]
+	path = TurboCalendarApp
+	url = git@github.com:marvinvillareal/TurboCalendarApp.git
